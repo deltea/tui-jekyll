@@ -7,16 +7,16 @@ layout: default
 
 **tui jekyll** is a jekyll theme inspired by terminal ui
 
-[deltea.space](https://deltea.space)
+<!-- [deltea.space](https://deltea.space) -->
 
 ---
 
-## unordered list
+## unordered
 - hello
 - item 2
 - wassup
 
-## ordered list
+## ordered
 1. sup
 2. hello
 3. greetings
