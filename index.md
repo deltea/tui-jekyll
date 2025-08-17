@@ -1,5 +1,6 @@
 ---
 title: tui jekyll
+layout: default
 ---
 
 # tui jekyll
