@@ -4,13 +4,30 @@ body {
   margin: auto;
   max-width: 70ch;
   color: #fff;
-  padding-top: 2rem;
+  font-size: large;
 }
 
 h1 {
   font-weight: bold;
+  margin-top: 3rem;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: medium;
+  margin-top: 2rem;
 }
 
 a {
   color: #fff;
+}
+
+ul {
+  list-style-type: "- ";
+  padding-left: 2rem;
+}
+
+hr {
+  margin-top: 2rem;
+  border-style: dashed;
 }
