@@ -1,4 +1,7 @@
 ---
+title: tui jekyll
 ---
 
-# tonic-starter
+# tui jekyll
+
+**tui jekyll** is a jekyll theme based on terminal ui
